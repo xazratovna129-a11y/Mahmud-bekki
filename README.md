@@ -1,2 +1,0 @@
-# Mahmud-bekki
-Uchiha Sasuke🖤 
