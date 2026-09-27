@@ -1,6 +1,6 @@
 body {
     background: #111;
-    color: white;
+    color: blue;
     font-family: Arial;
     text-align: center;
 }
@@ -20,7 +20,7 @@ section {
 
 button {
     background: red;
-    color: white;
+    color: green;
     border: none;
     padding: 15px 30px;
     border-radius: 10px;
